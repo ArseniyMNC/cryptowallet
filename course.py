@@ -1,0 +1,1 @@
+USD_IN_COIN = 2.3
