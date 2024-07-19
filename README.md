@@ -1,8 +1,8 @@
-# Whath's it?
+# What's it?
 This is a my realization of cryptowallet.
 ## For who?
-For anybody, I write this for my practic.
-## Than it is good?
+For anybody, I wrote this for my practic.
+## What is good in this project for me?
 Here is:
 1. 20-symbols random name of wallet
 2. they can here buy and sell coins(name of cryptowallet)
